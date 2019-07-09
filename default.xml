@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <manifest>
-    <remote name="origin" fetch="ssh://boris32111@github.com:29418/boris32111/" />
+    <remote name="origin" fetch="." />
     <default remote="origin" revision="master"/>
     <project path="test" name="test"/>
 </manifest>
