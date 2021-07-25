@@ -3,5 +3,5 @@
 <manifest>
     <remote name="origin" fetch="." />
     <default remote="origin" revision="master"/>
-    <project path="test" name="test"/>
+    <project path="utils" name="utils" revision="main"/>
 </manifest>
